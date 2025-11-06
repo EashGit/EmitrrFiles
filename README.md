@@ -7,7 +7,7 @@ This project implements a Python-based NLP pipeline to analyze a physician-patie
 
 ---
 
-## 🚀 Setup
+## Setup
 
 1.  **Install Dependencies:**
     This project requires Python 3.7+ and the following libraries. You can install them all using pip:
@@ -25,7 +25,7 @@ This project implements a Python-based NLP pipeline to analyze a physician-patie
 
 ---
 
-## 🏃 How to Run
+## How to Run
 
 1.  **If using Google Colab:**
     * Run the setup commands in the first cell (prefixed with `!`).
@@ -39,5 +39,6 @@ This project implements a Python-based NLP pipeline to analyze a physician-patie
     ```bash
     python medical_nlp.py
     ```
+
 
 The script will run all three analysis tasks on the provided transcript and print the structured JSON outputs for each part to the console.
